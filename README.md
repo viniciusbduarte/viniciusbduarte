@@ -9,8 +9,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
@@ -40,9 +40,9 @@
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seu-canal)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusbatistaduarte)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nordmuse)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinicius_33z)
 
 ---
 

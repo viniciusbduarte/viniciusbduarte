@@ -1,7 +1,8 @@
 <!-- Banner ou gif legal no topo -->
+<!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-</p>
+</p>-->
 
 <h1 align="center">Salve, devs! Eu sou o Vinicius Duarte👨‍💻</h1>
 
@@ -14,8 +15,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---

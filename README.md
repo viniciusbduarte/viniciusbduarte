@@ -1,7 +1,3 @@
-<!-- Banner ou gif legal no topo -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-</p>
 
 <h1 align="center">Opa, meu jovem! Eu sou o Vinicius Duarte👨‍💻</h1>
 

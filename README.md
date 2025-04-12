@@ -1,22 +1,20 @@
 <!-- Banner ou gif legal no topo -->
-<!-- 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
-</p>-->
+</p>
 
-<h1 align="center">Salve, devs! Eu sou o Vinicius Duarte👨‍💻</h1>
+<h1 align="center">Opa, meu jovem! Eu sou o Vinicius Duarte👨‍💻</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação • Apaixonado por sistemas embarcados, eletrônica e programação  🚀
+  Técnico em  Sistemas de Energia Renovável e Estudante de Engenharia da Computação pelo IFPB • Apaixonado por sistemas embarcados, eletrônica e programação • Monitor de Sistemas Digitais IFPB Campus Campina Grande 🚀
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
@@ -31,9 +29,7 @@
 
 ### 🧠 Estudando atualmente
 
-- Desenvolvimento embarcado com C e FreeRTOS
-- Python para automações e scripts técnicos
-- React para projetos web interativos
+- Desenvolvimento embarcado 
 - Teoria de circuitos e sistemas digitais
 
 ---

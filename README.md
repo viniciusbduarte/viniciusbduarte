@@ -9,7 +9,6 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats-3a1c6up85.vercel.app/api?username=viniciusbduarte&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150 />
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
 </div>

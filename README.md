@@ -10,10 +10,10 @@
 
 <div align="center">
   <!-- Card com as linguagens principais -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight" height="150" />
 
   <!-- Card com estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_rank=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_rank=false" height="150" />
 </div>
 
 ---

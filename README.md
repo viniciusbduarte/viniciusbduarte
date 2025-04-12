@@ -9,6 +9,7 @@
 
 
 <div align="center">
+  <img src="https://github-readme-stats-youruser.vercel.app/api?username=viniciusbduarte&show_icons=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
 </div>
@@ -32,8 +33,8 @@
 
 ### 🔥 Projetos em destaque
 
-- 🛰️ **Sistema de Rastreamento Solar com IA** – Projeto de pesquisa com aprendizado de máquina para otimização da captação solar.
-- 🎮 **Jogo 2D: Crônicas do Tempo** – RPG em desenvolvimento com elementos de sobrevivência, fantasia e viagens temporais.
+- 🛰️ **Posicionador Para Módulo Fotovoltaico com Controle a Distância** – Trabalho de Conclusão de Curso com envolvimento em automação e energia solar.
+- 🛠️ **Sistema de Irrigação Inteligente com Monitoramento de Variáveis** – Veja os repositórios com instruções passo a passo!
 - 🛠️ **Tutoriais e mini projetos com Arduino e ESP32** – Veja os repositórios com instruções passo a passo!
 
 ---
@@ -49,7 +50,7 @@
 ### ✨ Um pouco mais sobre mim
 
 - 🎓 Graduando em Engenharia da Computação
-- ✍️ Criador de conteúdo sobre tecnologia, foco e aprendizado
+- ✍️ Monitor de Sistemas Digitais I e II pelo IFPB Campus Campina Grande
 - 🤖 Fascinado por sistemas inteligentes e automação
 - 🌱 Buscando sempre crescer e compartilhar conhecimento
 

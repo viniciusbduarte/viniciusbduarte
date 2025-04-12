@@ -24,12 +24,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=viniciusbduarte&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&theme=tokyonight" height="150"/>
-</div>
-
 ---
 
 ### 🚀 Tecnologias que uso

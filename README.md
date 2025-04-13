@@ -1,8 +1,8 @@
 
-<h1 align="center">Opa, meu jovem! Eu sou o Vinicius Duarte👨‍💻</h1>
+<h1 align="center">Opa! Eu sou o Vinicius Duarte👨‍💻</h1>
 
 <p align="center">
-  Técnico em  Sistemas de Energia Renovável e Estudante de Engenharia da Computação pelo IFPB • Apaixonado por sistemas embarcados, eletrônica e programação • Monitor de Sistemas Digitais IFPB Campus Campina Grande 🚀
+  Técnico em  Sistemas de Energia Renovável e Estudante de Engenharia da Computação pelo IFPB • Apaixonado por sistemas embarcados, eletrônica e programação • Monitor de Sistemas Digitais no IFPB Campus Campina Grande 🚀
 </p>
 
 ---
@@ -36,9 +36,12 @@
 
 ### 🧠 Estudando atualmente
 
-- Desenvolvimento embarcado 
-- Teoria de circuitos e sistemas digitais
-
+- Poo
+- Teoria dos Grafos
+- Organização e Arquitetura de Computadores
+- Desenvolvimento Web
+- IoT, IA e Redes
+  
 ---
 
 ### 🔥 Projetos em destaque
@@ -65,7 +68,3 @@
 - 🌱 Buscando sempre crescer e compartilhar conhecimento
 
 ---
-
-<p align="center">
-  Feito com ❤️ por Vinicius
-</p>

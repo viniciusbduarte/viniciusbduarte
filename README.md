@@ -1,5 +1,5 @@
 
-<h1 align="center">Opa! Eu sou o Vinicius Duarte👨‍💻</h1>
+<h1>Opa! Eu sou o Vinicius Duarte👨‍💻</h1>
 
 <p align="center">
   Técnico em  Sistemas de Energia Renovável e Estudante de Engenharia da Computação pelo IFPB • Apaixonado por sistemas embarcados, eletrônica e programação • Monitor de Sistemas Digitais no IFPB Campus Campina Grande 🚀
@@ -17,9 +17,6 @@
 </div>
 
 ---
-
-### 🏆 Conquistas no GitHub
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=viniciusbduarte&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>

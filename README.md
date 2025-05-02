@@ -6,8 +6,6 @@
 </p>
 
 ---
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <!-- Card com as linguagens principais -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight" height="150" />

@@ -23,8 +23,6 @@
 
 ---
 
-### 🚀 Tecnologias que uso
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,github,linux,html,css,javascript,react" />
 </div>

@@ -39,9 +39,9 @@
 
 ### 🔥 Projetos em destaque
 
-- 🛰️ **Posicionador Para Módulo Fotovoltaico com Controle a Distância** – Trabalho de Conclusão de Curso com envolvimento em automação e energia solar.
-- 🛠️ **Sistema de Irrigação Inteligente com Monitoramento de Variáveis** – Veja os repositórios com instruções passo a passo!
-- 🛠️ **Tutoriais e mini projetos com Arduino e ESP32** – Veja os repositórios com instruções passo a passo!
+- 🛰️ **Posicionador Para Módulo Fotovoltaico com Controle a Distância** 
+- 🛠️ **Sistema de Irrigação Inteligente com Monitoramento de Variáveis** 
+- 🛠️ **Tutoriais e mini projetos com Arduino e ESP32** 
 
 ---
 

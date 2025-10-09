@@ -29,10 +29,10 @@
 
 ### 🧠 Estudando atualmente
 
-- Poo
-- Teoria dos Grafos
-- Organização e Arquitetura de Computadores
-- Desenvolvimento Web
+- Banco de Dados
+- Microcontroladores
+- Circuitos Elétricos
+- Sistemas Operacionais
 - IoT, IA e Redes
   
 ---

@@ -29,19 +29,13 @@
 
 ### 🧠 Estudando atualmente
 
-- Banco de Dados
-- Microcontroladores
-- Circuitos Elétricos
-- Sistemas Operacionais
-- IoT, IA e Redes
-  
+-
 ---
 
 ### 🔥 Projetos em destaque
 
 - 🛰️ **Posicionador Para Módulo Fotovoltaico com Controle a Distância** 
 - 🛠️ **Sistema de Irrigação Inteligente com Monitoramento de Variáveis** 
-- 🛠️ **Tutoriais e mini projetos com Arduino e ESP32** 
 
 ---
 

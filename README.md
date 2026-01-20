@@ -14,7 +14,7 @@
   </a>
   <a href="https://youtube.com/@nordmuse">
     <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a><
+  </a>
     <a href="https://viniciusbduarte.github.io/meuportfolio/">
     <img src="https://img.shields.io/badge/USER-black?style=for-the-badge&logo=user&logoColor=white"/>
   </a>

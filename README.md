@@ -22,15 +22,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/profile_square.png" width="220"/>
+  <img 
+    src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/main/images/aboutme.png"
+    width="100%"
+  />
 </p>
-
--  **Engenharia da Computação** — IFPB  
--  **Técnico em Sistemas de Energia Renovável**  
--  **Monitor de Sistemas Digitais I e II**  
--  Foco em **Sistemas Embarcados, Firmware e Automação**  
--  Interesse em **baixo nível e arquitetura de computadores**
-
 
 <h2 align="center">
   <img src="https://cdn.simpleicons.org/circuitverse/ffffff" width="28"/>
@@ -99,3 +95,11 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/main/images/end.png"
+    width="100%"
+  />
+</p>
+

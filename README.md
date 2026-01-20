@@ -23,7 +23,7 @@
   </a></p>
   
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/user/ffffff" width="26"/>
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="26"/>
   <em>About Me</em>
 </h2>
 <p align="center">

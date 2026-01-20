@@ -17,7 +17,7 @@
   </a>
 </p>
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="26"/>
+  <img src="https://cdn.simpleicons.org/user/ffffff" width="26"/>
   <em>About Me</em>
 </h2>
 
@@ -82,20 +82,21 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" width="26"/>
   <em>Statistics</em>
 </h2>
-      <img
-        width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-      />
-      <img
-        width="50%"
-        src="https://github-readme-streak-stats.herokuapp.com/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
-
+<p align="center">
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+  />
+  <img
+    width="420"
+    src="https://streak-stats.demolab.com?user=viniciusbduarte&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+  />
+</p>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"
   />
 </p>
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/main/images/end.png"

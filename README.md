@@ -17,12 +17,10 @@
   </a>
 </p>
 
-
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="28"/>
+  <img src="https://cdn.simpleicons.org/user/ffffff" width="28"/>
   <i>About Me</i>
 </h2>
-
 
 <table>
   <tr>

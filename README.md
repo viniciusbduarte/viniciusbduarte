@@ -36,6 +36,7 @@
 <h3 align="center">🧩 Tecnologias</h3>
 
 <p align="center">
+  
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat&logo=arduino&logoColor=white)
   ![C](https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-black?style=flat&logo=cplusplus&logoColor=white)
@@ -47,6 +48,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=white)
   ![React](https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=white)
+  
 </p>
 
 ---

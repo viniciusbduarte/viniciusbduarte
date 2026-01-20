@@ -82,11 +82,11 @@
 </h2>
 <p align="center">
   <img
-    width="50%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
   <img
-    width="50%"
+    width="49%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
 </p>

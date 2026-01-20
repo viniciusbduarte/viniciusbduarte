@@ -76,9 +76,10 @@
   <!-- Design -->
   <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
-  <!-- Firmware -->
-  <img src="https://img.shields.io/badge/Firmware-black?style=for-the-badge&logo=embeddedc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sistemas%20Embarcados-black?style=for-the-badge&logo=chip&logoColor=white"/>
+  <!-- Comunicação / Redes -->
+  <img src="https://img.shields.io/badge/LoRa-black?style=for-the-badge&logo=semtech&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP--NOW-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+
 </p>
 
 <h2 align="center">

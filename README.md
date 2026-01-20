@@ -82,13 +82,10 @@
 </h2>
 <p align="center">
   <img
-    heigh=200
     src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
   <img
-    heigh=200
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-    style="filter: grayscale(100%);"
   />
 </p>
 <p align="center">

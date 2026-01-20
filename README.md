@@ -14,10 +14,10 @@
   </a>
   <a href="https://youtube.com/@nordmuse">
     <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a></p>
+  </a><
     <a href="https://viniciusbduarte.github.io/meuportfolio/">
     <img src="https://img.shields.io/badge/USER-black?style=for-the-badge&logo=user&logoColor=white"/>
-  </a></p>
+  </a>
   <a href="https://www.instagram.com/vinicius_33z/">
     <img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a></p>

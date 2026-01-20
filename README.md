@@ -70,9 +70,11 @@
 <h3 align="center">🌐 Onde me encontrar</h3>
 
 <p align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusbatistaduarte)
   [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@nordmuse)
   [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white)](https://instagram.com/vinicius_33z)
+  
 </p>
 
 ---

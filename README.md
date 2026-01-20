@@ -16,32 +16,25 @@
     <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
-
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/user/ffffff" width="28"/>
-  <i>About Me</i>
+  <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="26"/>
+  <em>About Me</em>
 </h2>
 
-<table>
-  <tr>
-    <td width="65%">
-      
-- 🎓 <b>Engenharia da Computação</b> — IFPB  
-- ⚡ <b>Técnico em Sistemas de Energia Renovável</b>  
-- 🧠 <b>Monitor de Sistemas Digitais I e II</b>  
-- 🤖 Foco em <b>Sistemas Embarcados, Firmware e Automação</b>  
-- 🔬 Interesse em <b>arquitetura de computadores e baixo nível</b>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/profile_square.png" width="220"/>
+</p>
 
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/profile_square.png" width="220"/>
-    </td>
-  </tr>
-</table>
+-  **Engenharia da Computação** — IFPB  
+-  **Técnico em Sistemas de Energia Renovável**  
+-  **Monitor de Sistemas Digitais I e II**  
+-  Foco em **Sistemas Embarcados, Firmware e Automação**  
+-  Interesse em **baixo nível e arquitetura de computadores**
+
 
 <h2 align="center">
   <img src="https://cdn.simpleicons.org/circuitverse/000000" width="28"/>
-  Technologies
+  <em>Technologies</em>
 </h2>
 
 <p align="center">

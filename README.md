@@ -52,23 +52,8 @@
 </h2>
 
 <div align="center">
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-  />
-  <img 
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&include_all_commits=true&count_private=true&custom_title=Total%20de%20Contribui%C3%A7%C3%B5es&hide=stars,prs,issues&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-  />
-</div>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=aaaaaa&hide_border=true"
-  />
-</p>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" height="150" /> </div>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"

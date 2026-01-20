@@ -5,22 +5,22 @@
   />
 </p>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/viniciusbatistaduarte">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/viniciusbduarte">
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@nordmuse">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/vinicius_33z">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
+
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/aboutdotme/000000" width="28"/>
-  About Me
+  <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" width="28"/>
+  <i>About Me</i>
 </h2>
 
 

@@ -33,7 +33,7 @@
 
 
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/circuitverse/000000" width="28"/>
+  <img src="https://cdn.simpleicons.org/circuitverse/ffffff" width="28"/>
   <em>Technologies</em>
 </h2>
 
@@ -47,9 +47,17 @@
 </p>
 
 <h2 align="center">
-  <img src="https://cdn.simpleicons.org/github/000000" width="28"/>
-  Statistics
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="26"/>
+  <em>Statistics</em>
 </h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+    height="150"
+  />
+</div>
+
 
 <div align="center">
   <img 

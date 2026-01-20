@@ -14,13 +14,11 @@
   </a>
   <a href="https://youtube.com/@nordmuse">
     <img src="https://img.shields.io/badge/YOUTUBE-black?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+  </a></p>
 <h2 align="center">
   <img src="https://cdn.simpleicons.org/user/ffffff" width="26"/>
   <em>About Me</em>
 </h2>
-
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/main/images/aboutme.png"
@@ -47,7 +45,7 @@
   <img src="https://img.shields.io/badge/ESP8266-black?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lego-black?style=for-the-badge&logo=lego&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Renesas-black?style=for-the-badge&logo=renesas&logoColor=white"/>
 
   <!-- IDEs / Toolchains -->
   <img src="https://img.shields.io/badge/STM32CubeIDE-black?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
@@ -89,7 +87,7 @@
   />
   <img
     width="420"
-    src="https://streak-stats.demolab.com?user=viniciusbduarte&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&theme=tokyonight&count_private=true&hide=issues&hide_rank=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
 </p>
 <p align="center">

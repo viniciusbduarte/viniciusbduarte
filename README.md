@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/images/banner.png"
+    src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/images/capa.png"
     width="100%"
   />
 </p>

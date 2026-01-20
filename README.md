@@ -50,17 +50,22 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" width="26"/>
   <em>Statistics</em>
 </h2>
-<div>
-  <img
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-    height="150"
-  /><img
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"
-    height="150"
-  />
-</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"
+      />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"

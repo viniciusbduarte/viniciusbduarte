@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/capa.png" />
+  <img 
+    src="https://raw.githubusercontent.com/viniciusbduarte/viniciusbduarte/main/images/banner.png"
+    width="100%"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/viniciusbatistaduarte">

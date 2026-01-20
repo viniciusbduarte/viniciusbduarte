@@ -52,8 +52,12 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" height="150" /> </div>
+  <img     
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" height="150" /> 
+  <img     
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" height="150" /> </div>
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"

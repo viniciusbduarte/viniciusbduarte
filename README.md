@@ -57,7 +57,7 @@
       <img
         width="50%"
         src="https://github-readme-streak-stats.herokuapp.com/?username=viniciusbduarte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
-      />
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"

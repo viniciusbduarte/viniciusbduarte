@@ -25,6 +25,10 @@
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,github,linux,html,css,javascript,react" />
 </div>
 
+![C](https://img.shields.io/badge/C-black?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)
+
 ---
 
 ### 🧠 Estudando atualmente

@@ -87,14 +87,22 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" width="26"/>
   <em>Statistics</em>
 </h2>
+
 <p align="center">
   <img
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
   />
 </p>
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusbduarte&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&hide_border=true"

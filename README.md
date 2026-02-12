@@ -90,12 +90,12 @@
 
 <p align="center">
   <img
-    height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusbduarte&theme=dark"
+    width="57%"
   />
   <img
-    height="180"
     src="https://streak-stats.demolab.com?user=viniciusbduarte&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+    width="41%"
   />
 </p>
 

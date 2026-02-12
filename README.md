@@ -90,18 +90,15 @@
 
 <p align="center">
   <img
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10px"
+    height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusbduarte&theme=dark"
   />
   <img
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10px"
-    src="https://streak-stats.demolab.com?user=viniciusbduarte&theme=default&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+    height="180"
+    src="https://streak-stats.demolab.com?user=viniciusbduarte&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   />
 </p>
+
 
 <p align="center">
   <img 

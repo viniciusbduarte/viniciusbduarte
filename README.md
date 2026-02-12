@@ -93,13 +93,13 @@
     alt="Github Stats"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusbduarte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusbduarte&theme=dark"
   />
   <img
     alt="Github Stats"
     height="200"
     style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbduarte&langs_count=10&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+    src="https://streak-stats.demolab.com?user=viniciusbduarte&theme=default&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
   />
 </p>
 
